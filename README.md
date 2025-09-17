@@ -1,5 +1,8 @@
 # Quick Order - Request Handling Workflow Prototype
 
+Watch the app in action:  
+[▶️ View Demo](https://drive.google.com/file/d/1VbQYmTZatBc7-CbLgYbt5IEh9ZojvBms/view?usp=sharing)
+
 This project is a Flutter mobile application designed to simulate a real-world request and confirmation workflow. It features two distinct user roles: an **End User** who submits requests for multiple items, and a **Receiver** who processes these requests. The system is built to handle partial confirmations by intelligently reassigning unconfirmed items while maintaining a unified view for the end user.
 
 ## Features
